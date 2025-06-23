@@ -26,7 +26,8 @@ The data follows a **Star Schema** design:
 - **Most Used Payment Method**: Hawala (42%)
 
 ## 📸 Dashboard Preview
-![Sales Dashboard][Sales_Dashboard.xlsx](https://github.com/user-attachments/files/20872651/Sales_Dashboard.xlsx)
+![Sales Dashboard](https://github.com/user-attachments/assets/2a7ae61e-3d2f-4e8c-9ad6-0f74484ac3ab)
+
 
 
 ## 📁 Files
