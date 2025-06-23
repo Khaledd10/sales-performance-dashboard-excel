@@ -38,7 +38,4 @@ The data follows a **Star Schema** design:
 - Data used is from an open online source for educational purposes.
 - Dashboard and data model built entirely from scratch.
 
-## 📜 License
-This project is licensed under the MIT License — feel free to use and adapt it.
-
 ---
