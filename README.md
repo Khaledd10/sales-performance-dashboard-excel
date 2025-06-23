@@ -15,7 +15,7 @@ This Excel-based dashboard provides a comprehensive analysis of sales performanc
 ## 🧱 Data Modeling
 The data follows a **Star Schema** design:
 - **Fact Table**: Orders
-- **Dimension Tables**: Product, Customer, Employee, Region, Payment Method
+- **Dimension Tables**: Products, Customers, Employees, Dates
 
 ## 📈 Key Insights
 - **Average Order Value**: 109.94
@@ -26,7 +26,8 @@ The data follows a **Star Schema** design:
 - **Most Used Payment Method**: Hawala (42%)
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard][Sales_Dashboard.xlsx](https://github.com/user-attachments/files/20872651/Sales_Dashboard.xlsx)
+
 
 ## 📁 Files
 - `Sales_Dashboard.xlsx`: Fully functional Excel dashboard
